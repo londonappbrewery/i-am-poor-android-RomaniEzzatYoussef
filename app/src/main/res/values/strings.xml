@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">I Am Poor</string>
+    <string name="txtView1">I am poor android</string>
+    <string name="txtView2">انا كحيان اندرويد</string>
 </resources>
